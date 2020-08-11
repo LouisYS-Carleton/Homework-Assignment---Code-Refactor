@@ -1,0 +1,12 @@
+List Of Changes
+
+
+1. Added id tag to "Search Engine Optimization" link so that it brings you to the correct section in website when clicked.
+
+2. Updated <title> to be more descriptive. Changed from "website" to "Horiseon Social Solution Services".
+
+3. Added closing </img> tags to right side images to clean up html.
+
+4. Did not add alt tag to title picture (people working around table) as I read that alt text should not be included on "filler" images to aid in the lessening of displaying useless info to those who depend on screen readers.
+
+
